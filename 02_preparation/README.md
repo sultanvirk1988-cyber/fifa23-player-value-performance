@@ -1,4 +1,13 @@
 ## Datenaufbereitung
 
-Bereinigung und strukturelle Vorbereitung der FIFA-23-Daten
-für die anschließende Analyse und Visualisierung.
+Vor der Visualisierung wurden die Daten strukturell vorbereitet, um
+konsistente Vergleiche und eine klare Storyline zu ermöglichen.
+
+Die Vorbereitung umfasste unter anderem:
+- Bereinigung inkonsistenter oder irrelevanter Werte
+- Vereinheitlichung relevanter Kennzahlen
+- Vorbereitung von Filter- und Vergleichslogiken
+- Reduktion auf analyse-relevante Attribute
+
+Die Aufbereitung diente ausschließlich der analytischen Klarheit und
+veränderte nicht die Aussage der zugrunde liegenden Daten.
